@@ -33,7 +33,7 @@
 7.	Compile that file with C compiler and verify the output.
 
 # INPUT
-```
+```c
 %{
 #include <stdio.h>
 #include <ctype.h>
